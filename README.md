@@ -1,5 +1,5 @@
 # Visualization and Analysis of COVID-19 World Data  
-### Anton Korolev
+# Anton Korolev
 [LinkedIn](https://www.https://www.linkedin.com/in/anton-korolevb558/) | [GitHub](https://https://www.github.com/VHTATAH)
 ## Table of Contents
 1. [Overview](#Overview)
