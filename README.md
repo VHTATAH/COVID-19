@@ -9,5 +9,21 @@ In this project, the spread of the virus will be visualized using charts and gra
 Since the corona erupted into our world, research institutes and governments have released many databases publicly to allow research groups (and independent individuals) to analyze the data around the corona’s spread. These databases are scattered under numerous initiatives and sources. The data for the project was downloaded from data.humana.org web site in a form of csv files and Excel sheets.
 
 ## Exploration 
-This section contains all the plots and tables that were used in the project.
+This section contains the plots that were used in the project
+
 ![](img/virus_global_trend.png)
+
+
+![](img/barplot_top10.png)
+
+
+![](img/top_5_rate.png)
+
+
+![](img/fig1.png)
+
+
+![](img/fig2.png)
+
+
+![](img/map.html)
