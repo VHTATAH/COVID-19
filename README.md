@@ -44,9 +44,13 @@ This section contains plots and tables that were used in the project
 
 ---
 H0: The Dizziness and ICU admission are independent.
+
 H1: The Dizziness and ICU admission are NOT independent 
+
 Alpha = 0.05
+
 p value =  0.006
+
 0.006 < 0.05 hence reject H0
 
 ------
