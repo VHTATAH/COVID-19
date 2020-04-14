@@ -56,12 +56,17 @@ p value =  0.006
 ------
 
 H0: The Dry Cough and ICU admission are independent.
+
 H1: The Dry Cough and ICU admission are NOT independent 
+
 Alpha = 0.05
+
 p value =  0.887
+
 0.887 > 0.05 hence fail to reject H0
 
 ## Conclusions 
+
 1. The number of people getting infected with COVID19 in United States is the highest in the world 
 
 2. China is the best at fighting the virus among the top 10 countries with the most number of confirmed infected cases 
