@@ -1,13 +1,13 @@
 # Visualization and Analysis of COVID-19 World Data  
 ### Anton Korolev
-[LinkedIn](https://www.https://www.linkedin.com/in/anton-korolevb558/)|[GitHub](https://https://www.github.com/VHTATAH)
+[LinkedIn](https://www.https://www.linkedin.com/in/anton-korolevb558/) | [GitHub](https://https://www.github.com/VHTATAH)
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Data](#Data)
 3. [Exploration](#Exploration)
-4. [Statistical Analysis](#Statistical Analysis) 
+4. [Statistical Analysis](#Statistical%20Analysis) 
 5. [Conclusions](#Conclusions) 
-6. [Future Analysis](#Future Analysis)
+6. [Future Analysis](#Future%20Analysis)
 ---
 ## Overview
 Coronavirus disease 2019 (COVID-19) is a respiratory illness that can spread from person to person. The virus that causes COVID-19 is a novel coronavirus that was first identified during an investigation into an outbreak in Wuhan, China. With numbers of confirmed cases growing every day it is hard to quickly estimate the situation when looking at the data in the table format. As infection rates swell across the world, hospitals capacities are pushed to the limits. 
